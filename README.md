@@ -1,24 +1,26 @@
 # Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN
 This repo provides the dataset used in our paper "Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN" (). 
 
-Dataset
+## Dataset
 The dataset contains 14,221 images and corresponding predicted attribute values. Currently we publish two attribute categories among others: clothing colors and sleeve lengths. 22 attribute values in total are selected in this published dataset. Therefore each image is associated with 1 color value and 1 sleeve-length value (these two values can be empty since there are other values of these two categories that are not covered in this dataset).
 
 
-Result
+## Result
 The results of our proposed Fashion-AttGAN and the original AttGAN are as follows:
 
 ![alt text](https://github.com/ChanningPing/Fashion_Attribute_Editing/blob/master/images/base_result.jpg)
-(a) Attribute-Editing Results of AttGAN
+
 ![alt text](https://github.com/ChanningPing/Fashion_Attribute_Editing/blob/master/images/our_result.jpg)
-(a) Attribute-Editing Results of Fashion-AttGAN
-Figure 1:  Clothing Attribute-Editing Results.  From left to right columns:(1) original image, (2) reconstructed image, (3-6)varied sleeve lengths, (7-24) varied colors.
+###### Figure 1:  Clothing Attribute-Editing Results.  Top: Attribute-Editing Results of AttGAN. Bottom: Attribute-Editing Results of Fashion-AttGAN. From left to right columns:(1) original image, (2) reconstructed image, (3-6)varied sleeve lengths, (7-24) varied colors.
 
-Cite
-To use or cite this dataset, please use the following;
+
+## Cite
+To use or cite this dataset, please use the following:
+```
 Qing Ping, Jiangbo Yuan, Bing Wu, Wanying Ding, 2019. Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN. FFSS-USAD Workshop at CVPR 2019. 
+```
 
-
+## Statistics
 The statistics of different attribute values are summarized as follows:
 <table>
   <tr>
