@@ -77,6 +77,10 @@ A dataset of fashion clothing images paired with attribute labels.
     <td>26</td>
   </tr>
   <tr>
+    <td>light-brown</td>
+    <td>15</td>
+  </tr>
+  <tr>
     <td rowspan="4">Sleeve Length</td>
     <td>long sleeve</td>
     <td>4151</td>
