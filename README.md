@@ -18,7 +18,7 @@ The results of our proposed Fashion-AttGAN and the original AttGAN are as follow
 ## Cite
 To use or cite this dataset, please use the following:
 ```
-Qing Ping, Jiangbo Yuan, Bing Wu, Wanying Ding, 2019. Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN. FFSS-USAD Workshop at CVPR 2019. 
+Qing Ping, Bing Wu, Wanying Ding, Jiangbo Yuan. 2019. Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN. FFSS-USAD Workshop at CVPR 2019. 
 ```
 
 ## Statistics
