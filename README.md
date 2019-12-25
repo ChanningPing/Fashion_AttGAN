@@ -15,11 +15,11 @@ The results of our proposed Fashion-AttGAN and the original AttGAN are as follow
 ###### Figure 1:  Clothing Attribute-Editing Results.  Top: Attribute-Editing Results of AttGAN. Bottom: Attribute-Editing Results of Fashion-AttGAN. From left to right columns:(1) original image, (2) reconstructed image, (3-6)varied sleeve lengths, (7-24) varied colors.
 
 ## Train
-###Prerequisites
+### Prerequisites
 Tensorflow
-###Data Preparation
+### Data Preparation
 Put all images under /data.
-###Training
+### Training
 ```
 bash train.sh
 ```
